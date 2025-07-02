@@ -1,0 +1,22 @@
+# Секретные файлы
+.env
+*.secret
+config.py
+
+# Кэш и временные файлы Python
+__pycache__/
+*.py[cod]
+
+# Логи и данные
+*.log
+*.sqlite3
+
+# IDE и системные файлы
+.vscode/
+.idea/
+.DS_Store
+
+# Токены и конфиги
+bot_token.txt
+keys/
+secrets/
